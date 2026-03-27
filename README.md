@@ -16,8 +16,6 @@
 
 ---
 
-## 💫 Connect with Me
-
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/1379466804757397676.png" alt="Discord Status" />
 </p>
