@@ -1,33 +1,17 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ECEC&center=true&vCenter=true&width=455&lines=skidpro+%F0%9F%91%BE;Just+Another+Guy+on+GitHub;Code.+Learn.+Repeat." alt="Typing SVG" />
-</a>
-
----
-
-## 🛠️ Technologies & Tools
-
 ### Languages
 <p align="center">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.png" alt="Luau" title="Luau"></code>
 </p>
 
 ### Tools & Programs
 <p align="center">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" alt="Windows" title="Windows"></code>
-</p>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=master0241&hide_title=true&hide_rank=true&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" title="Visual Studio Code"></code>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" title="Visual Studio"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/wiki/MaximumADHD/Roblox-Client-Tracker/images/RobloxStudio.png" alt="Roblox Studio" title="Roblox Studio"></code>
 </p>
 
 ---
@@ -41,13 +25,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=master0241&color=green" alt="Profile Views" />
 </p>
-
----
-
-## ✉️ About Me
-
-**Just a developer building and learning things one commit at a time.**
-
-**Feel free to check out my repositories and reach out if you want to collaborate!**
 
 </div>
