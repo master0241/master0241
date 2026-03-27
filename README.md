@@ -11,7 +11,7 @@
 <p align="center">
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" title="Visual Studio"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" title="Visual Studio Code"></code>
-  <code><img height="30" src="https://devicons.railway.app/i/robloxstudio.svg" alt="Roblox Studio" title="Roblox Studio"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/master0241/master0241/main/roblox-studio.png" alt="Roblox Studio" title="Roblox Studio"></code>
 </p>
 
 ---
